@@ -1,0 +1,6 @@
+name = "inventory-managment"
+main = "src/index.js"
+compatibility_date = "2023-04-01"
+
+kv_namespaces=[{ binding = "BLOG_EXAMPLE_preview", preview_id = "c3538cfa278e4b578eb220c92a8e9c3e",id = "c3538cfa278e4b578eb220c92a8e9c3e" },
+{ binding = "BLOG_EXAMPLE", id = "8f089ba7b4e8471896bebf040faf39b9",preview_id="8f089ba7b4e8471896bebf040faf39b9" }]
